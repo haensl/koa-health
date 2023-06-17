@@ -71,7 +71,6 @@
     "jest-junit": "^16.0.0"
   },
   "dependencies": {
-    "@haensl/environments": "^1.0.1",
     "@haensl/http": "^1.0.0"
   }
 }
