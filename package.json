@@ -1,6 +1,6 @@
 {
   "name": "@haensl/koa-health",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Application health/readiness management and Koa routes.",
   "main": "index.js",
   "scripts": {
