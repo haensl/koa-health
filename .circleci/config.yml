@@ -233,7 +233,7 @@ jobs:
           command: echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > ~/.npmrc
       - run:
           name: publish node module
-          command: npm publish --access public haensl-koa-health.tgz
+          command: npm publish --access public ./haensl-koa-health.tgz
 
   publish-github-release:
     docker:
